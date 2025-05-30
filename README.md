@@ -1,7 +1,7 @@
 
-# Netflix Case Study 
+# Netflix Case Study
 
-##  Project Objective
+## Project Objective
 
 To explore and analyze Netflix’s content catalog using real-world data to uncover insights about content types, genres, countries, release trends, and key contributors (actors, directors). The goal is to understand how Netflix structures its content globally and how its offerings have evolved over time.
 
@@ -31,12 +31,17 @@ To explore and analyze Netflix’s content catalog using real-world data to unco
 This project helps understand user content preferences and trends, which are essential for:
 - Business decision-making in content acquisition
 - Product design and regional personalization
-- Beginners learning data analysis and visualization
 
-##  Status
+## Status
 
-Completed and ready for portfolio showcase.
+Completed
 
 ---
 
-> Created by **Sarath** 
+> Created by **Sarath**
+
+
+---
+
+### Tags  
+`#netflix` `#eda` `#data-analysis` `#python` `#pandas` `#seaborn` `#portfolio-project`
