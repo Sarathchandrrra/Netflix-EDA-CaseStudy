@@ -26,6 +26,15 @@ To explore and analyze Netflix’s content catalog using real-world data to unco
 - WordCloud
 - Jupyter Notebook
 
+## Setup
+
+1. Download **netflix_title.csv** from [Google Drive](https://drive.google.com/uc?export=download&id=1-qDO7oNwzQn0RV44YtpqWdYS4SO3GkQg) and place it in this project folder.
+2. Install dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
 ##  Why This Matters
 
 This project helps understand user content preferences and trends, which are essential for:
