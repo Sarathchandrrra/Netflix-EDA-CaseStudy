@@ -26,9 +26,13 @@ To explore and analyze Netflix’s content catalog using real-world data to unco
 - WordCloud
 - Jupyter Notebook
 
+## Dataset
+
+This project relies on the [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows) dataset compiled by Kaggle user **Shivam Bansal**. The data contains Netflix's public catalogue listings and is made available under the **CC0: Public Domain** license. Netflix retains ownership of the original content information. If the Google Drive link below is unavailable, you can also download the CSV directly from Kaggle (login required).
+
 ## Setup
 
-1. Download **netflix_title.csv** from [Google Drive](https://drive.google.com/uc?export=download&id=1-qDO7oNwzQn0RV44YtpqWdYS4SO3GkQg) and place it in this project folder.
+1. Download **netflix_title.csv** from [Google Drive](https://drive.google.com/uc?export=download&id=1-qDO7oNwzQn0RV44YtpqWdYS4SO3GkQg) or from [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows) and place it in this project folder.
 2. Install dependencies:
 
    ```bash
