@@ -33,11 +33,22 @@ This project relies on the [Netflix Movies and TV Shows](https://www.kaggle.com/
 ## Setup
 
 1. Download **netflix_title.csv** from [Google Drive](https://drive.google.com/uc?export=download&id=1-qDO7oNwzQn0RV44YtpqWdYS4SO3GkQg) or from [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows) and place it in this project folder.
-2. Install dependencies:
+2. Install dependencies (requires **Python 3.10**):
 
    ```bash
    pip install -r requirements.txt
    ```
+
+## Quick Start
+
+To quickly launch the notebook in a virtual environment:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+jupyter notebook Netflix_Case_Study.ipynb
+```
 
 ##  Why This Matters
 
