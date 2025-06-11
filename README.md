@@ -28,7 +28,13 @@ To explore and analyze Netflix’s content catalog using real-world data to unco
 
 ## Dataset
 
-This project relies on the [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows) dataset compiled by Kaggle user **Shivam Bansal**. The data contains Netflix's public catalogue listings and is made available under the **CC0: Public Domain** license. Netflix retains ownership of the original content information. If the Google Drive link below is unavailable, you can also download the CSV directly from Kaggle (login required).
+This project relies on the [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows) dataset compiled by Kaggle user **Shivam Bansal**. The data contains Netflix's public catalogue listings and is made available under the **CC0: Public Domain** license. Netflix retains ownership of the original content information. If the Google Drive link below is unavailable, you can download the CSV directly from Kaggle. With the `kaggle` command-line tool run:
+
+```bash
+kaggle datasets download -d shivamb/netflix-shows -f netflix_title.csv
+```
+
+A Kaggle account and API token are required.
 
 ## Setup
 
